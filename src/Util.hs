@@ -1,7 +1,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 module Util where
 
-import           Control.Applicative
+import           Prelude.Compat
 import           Control.Concurrent
 import           Control.Monad
 import           Control.Exception
