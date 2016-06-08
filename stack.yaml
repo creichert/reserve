@@ -1,0 +1,7 @@
+
+resolver: lts-3.18
+flags: {}
+packages:
+  - '.'
+extra-deps:
+  - http-kit-0.5.1
